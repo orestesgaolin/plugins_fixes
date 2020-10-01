@@ -1,3 +1,7 @@
+## 4.5.7
+
+* Fix flutter/flutter#48602 iOS flow shows account selection, if user is signed in to Google on the device.
+
 ## 4.5.6
 
 * Fix deprecated member warning in tests.
